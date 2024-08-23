@@ -28,4 +28,8 @@ Enter a search term in the input field and click the "Search" button.
 Scroll down and click the "Load More" button to view more images.
 
 Click on any image to view it in higher resolution.
+![image](https://github.com/user-attachments/assets/cf605218-c484-4ba4-acb4-9afec44dd3be)
+
+![image](https://github.com/user-attachments/assets/fd1cf0fe-799a-40e7-8f09-2ae56f263a3b)
+
 
